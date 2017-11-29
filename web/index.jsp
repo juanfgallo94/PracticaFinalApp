@@ -4,9 +4,12 @@
     Author     : Juan Gallo
 --%>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 
@@ -18,17 +21,23 @@
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 >>>>>>> final
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 <!DOCTYPE html>
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         <title>JSP Page</title>
     </head>
     <body>
         <h1>Hello World!</h1>
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
         <title>Autos Informacion</title>
 <!-- Latest compiled and minified CSS -->
@@ -129,6 +138,9 @@
     <body>
         <h1>Hello World!</h1>
 >>>>>>> final
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     </body>
 </html>
