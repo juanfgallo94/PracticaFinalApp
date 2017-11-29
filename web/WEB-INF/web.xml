@@ -1,3 +1,46 @@
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.0" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
+    <servlet>
+        <servlet-name>AutoServlet</servlet-name>
+        <servlet-class>controller.AutoServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>QuejaxServlet</servlet-name>
+        <servlet-class>controller.QuejaxServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>DevolucionesServlet</servlet-name>
+        <servlet-class>controller.DevolucionesServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AutoServlet</servlet-name>
+        <url-pattern>/AutoServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>QuejaxServlet</servlet-name>
+        <url-pattern>/QuejaxServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>DevolucionesServlet</servlet-name>
+        <url-pattern>/DevolucionesServlet</url-pattern>
+    </servlet-mapping>
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+    <resource-ref>
+        <res-ref-name>jdbc/myAutos</res-ref-name>
+        <res-type>javax.sql.ConnectionPoolDataSource</res-type>
+        <res-auth>Container</res-auth>
+        <res-sharing-scope>Shareable</res-sharing-scope>
+    </resource-ref>
+</web-app>
+=======
+>>>>>>> Stashed changes
 <?xml version="1.0" encoding="UTF-8"?>
 <web-app version="3.0" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
     <session-config>
@@ -12,3 +55,7 @@
         <res-sharing-scope>Shareable</res-sharing-scope>
     </resource-ref>
 </web-app>
+<<<<<<< Updated upstream
+=======
+>>>>>>> final
+>>>>>>> Stashed changes
