@@ -5,9 +5,12 @@
 --%>
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 <<<<<<< HEAD
@@ -22,6 +25,9 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 >>>>>>> final
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -31,11 +37,14 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         <title>JSP Page</title>
     </head>
     <body>
         <h1>Hello World!</h1>
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 <<<<<<< HEAD
@@ -139,6 +148,9 @@
         <h1>Hello World!</h1>
 >>>>>>> final
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
