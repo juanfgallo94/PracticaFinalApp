@@ -3,16 +3,22 @@
     Created on : 25/11/2017, 05:58:24 PM
     Author     : Juan Gallo
 --%>
+<<<<<<< HEAD
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 
 
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+=======
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+>>>>>>> final
 <!DOCTYPE html>
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<<<<<<< HEAD
         <title>Autos Informacion</title>
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -106,5 +112,11 @@
             <form action="devoluciones.jsp">
              <input type="submit" value="Devolver Vehiculo"/>
             </form>
+=======
+        <title>JSP Page</title>
+    </head>
+    <body>
+        <h1>Hello World!</h1>
+>>>>>>> final
     </body>
 </html>
